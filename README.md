@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mehefuj Ali</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning --> **Node js, Express js, Mongodb, Firebase ,TS , React Native , AWS**
 
-- 👨‍💻 All of my projects are available at [https://mehefuj.netlify.app](https://mehefuj.netlify.app)
+- 👨‍💻 All of my projects are available at --> [https://mehefuj.netlify.app](https://mehefuj.netlify.app)
 
-- 💬 Ask me about **React**,**JS**,**TS**
+- 💬 Ask me about --> **React**, **JS**, **HTML**, **CSS**, **Tailwind** , **GSAP**
 
 - 📫 How to reach me **mehefujalim@gmail.com**
 
