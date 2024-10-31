@@ -14,17 +14,26 @@
 
 ## 🎨 About Me
 
-I'm **Mehefuj Ali**, a passionate **Frontend Developer** from India, constantly exploring new technologies and building impactful web applications. I'm on a journey to become a **Full-Stack Developer**, with a focus on **React**, **Node.js**, and **MongoDB**.
+I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-Stack Developer** from India. My goal is to build impactful, user-friendly web applications, and I'm currently exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I’m always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
 
-- 🌱 **Currently Learning**: Full-stack development with MERN
-- 🎯 **Goals**: Building innovative projects, learning advanced JavaScript, and creating engaging tutorials
-- ⚡ **Fun Fact**: I can get lost in crafting animations for hours!
+- 🌱 **Currently Learning**: Full-stack development with React, Node.js, and MongoDB
+- 🎯 **Goals**: Create innovative projects, master JavaScript animations, and share knowledge through tutorials
+- ⚡ **Fun Fact**: I can spend hours perfecting animations to create smooth user experiences!
 
 ---
 
 ## 🚀 My Projects
 
 <p align="left">
+  <a href="https://a6-peddy-mehefuj.netlify.app">
+    <img src="https://img.shields.io/badge/Peddy-%231DB45F.svg?style=for-the-badge&logo=webflow&logoColor=white" alt="Peddy">
+  </a>
+  <a href="https://knowledge-cafe-k.netlify.app/">
+    <img src="https://img.shields.io/badge/Knowledge%20Cafe-%2343853D.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Cafe">
+  </a>
+  <a href="https://big-cart.netlify.app">
+    <img src="https://img.shields.io/badge/Big%20Cart-%23FF5733.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Big Cart">
+  </a>
   <a href="https://mehefujali-task-manager.netlify.app">
     <img src="https://img.shields.io/badge/Task%20Manager-%231DB45F.svg?style=for-the-badge&logo=todoist&logoColor=white" alt="Task Manager">
   </a>
@@ -32,14 +41,11 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** from India, constantly 
     <img src="https://img.shields.io/badge/Find%20Git%20User-%2343853D.svg?style=for-the-badge&logo=github&logoColor=white" alt="Find Git User">
   </a>
   <a href="https://mehefujali.github.io/phone-shop/">
-    <img src="https://img.shields.io/badge/Phone%20Shop-%23ff5733.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Phone Shop">
-  </a>
-  <a href="https://github.com/mehefujali/book-hub">
-    <img src="https://img.shields.io/badge/Book%20Hub-%23F05454.svg?style=for-the-badge&logo=readme&logoColor=white" alt="Book Hub">
+    <img src="https://img.shields.io/badge/Phone%20Shop-%23FF5733.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Phone Shop">
   </a>
 </p>
 
-Explore all of my projects on my [GitHub Repositories](https://github.com/mehefujali?tab=repositories).
+Explore more projects in my [GitHub Repositories](https://github.com/mehefujali?tab=repositories).
 
 ---
 
@@ -68,9 +74,9 @@ Explore all of my projects on my [GitHub Repositories](https://github.com/mehefu
 
 ---
 
-## 📬 Connect with Me!
+## 📬 Let's Connect!
 
-I'm always open to collaboration or just a chat about tech. You can reach out through the following platforms:
+I’m always open to collaborating on exciting projects or having a conversation about tech. Feel free to reach out via any of the platforms below:
 
 <p align="center">
   <a href="https://www.facebook.com/share/xK94t1TizJUFJmX7/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
@@ -80,4 +86,4 @@ I'm always open to collaboration or just a chat about tech. You can reach out th
 
 ---
 
-⭐ **If you enjoy my projects, please give them a star! Let's create something amazing together!**
+⭐ **If you find my work helpful or interesting, please consider giving my projects a star!**
