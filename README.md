@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Mehefuj Ali! 🚀</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=4000&pause=500&color=F7F7F7&background=000000&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Frontend+Developer;Aspiring+Full+Stack+Developer+%F0%9F%94%A5" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://i.ibb.co/2tpjq5Z/linkdin-banner-photo.jpg" alt="Mehefuj Ali Banner" width="800"/>
