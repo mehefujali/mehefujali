@@ -105,3 +105,4 @@ I’m always open to collaborating on exciting projects or having a conversation
 ---
 
 ⭐ **If you find my work helpful or interesting, please consider giving my projects a star!**
+---
