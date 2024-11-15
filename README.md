@@ -37,12 +37,14 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-
 </a>
 
 
+<a href="https://dream-11-k.netlify.app/"> 
+    <img src="https://img.shields.io/badge/🏏%20Dream%2011-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="Dream 11 Badge"> 
+</a>
 
 
 
-  <a href="https://a6-peddy-mehefuj.netlify.app">
-    <img src="https://img.shields.io/badge/Peddy-%231DB45F.svg?style=for-the-badge&logo=webflow&logoColor=white" alt="Peddy">
-  </a>
+
+
   <a href="https://knowledge-cafe-k.netlify.app/">
     <img src="https://img.shields.io/badge/Knowledge%20Cafe-%2343853D.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Cafe">
   </a>
