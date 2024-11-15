@@ -31,7 +31,7 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-
 ## 🚀 My Projects
 
 <p align="left">
- <a href="https://e-news-c1801.web.app/home/category/07"> <img src="https://img.shields.io/badge/E--News-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="E-News"> </a>
+ <a href="https://e-news.web.app"> <img src="https://img.shields.io/badge/E--News-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="E-News"> </a>
   <a href="https://a6-peddy-mehefuj.netlify.app">
     <img src="https://img.shields.io/badge/Peddy-%231DB45F.svg?style=for-the-badge&logo=webflow&logoColor=white" alt="Peddy">
   </a>
