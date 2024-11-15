@@ -33,7 +33,7 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-
 <p align="left">
  <a href="https://e-news.web.app"> <img src="https://img.shields.io/badge/E--News-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="E-News"> </a>
 <a href="https://gadget-shop-k.netlify.app/"> 
-    <img src="https://img.shields.io/badge/Gadget%20Shop-%23634DBF.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Gadget Shop"> 
+    <img src="https://img.shields.io/badge/📰Gadget%20Shop-%23634DBF.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Gadget Shop"> 
 </a>
 
 
