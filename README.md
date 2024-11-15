@@ -41,6 +41,12 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-
     <img src="https://img.shields.io/badge/🏏%20Dream%2011-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="Dream 11 Badge"> 
 </a>
 
+<a href="https://open-pages.netlify.app/">
+  <img src="https://img.shields.io/badge/📚%20Open%20Pages-%234CAF50.svg?style=for-the-badge&logoColor=white&background=%23ffa875" alt="Open Pages Badge">
+</a>
+
+
+
 
 
 
