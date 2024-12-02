@@ -25,7 +25,7 @@ I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-
 - 🌱 **Currently Learning**: Full-stack development with React, Node.js, and MongoDB
 - 🎯 **Goals**: Create innovative projects, master JavaScript animations, and share knowledge through tutorials
 - ⚡ **Fun Fact**: I can spend hours perfecting animations to create smooth user experiences!
-
+ 
 ---
 
 ## 🚀 My Projects
