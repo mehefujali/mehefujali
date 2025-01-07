@@ -20,11 +20,24 @@
 
 ## 🎨 About Me
 
-I'm **Mehefuj Ali**, a passionate **Frontend Developer** and an aspiring **Full-Stack Developer** from India. My goal is to build impactful, user-friendly web applications, and I'm currently exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I’m always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
+# Mehefuj Ali
 
-- 🌱 **Currently Learning**: Full-stack development with React, Node.js, and MongoDB
-- 🎯 **Goals**: Create innovative projects, master JavaScript animations, and share knowledge through tutorials
-- ⚡ **Fun Fact**: I can spend hours perfecting animations to create smooth user experiences!
+**Frontend Developer | Aspiring Full-Stack Developer | India**
+
+I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
+
+---
+
+### 🌱 Currently Learning
+- Full-stack development with **React**, **Node.js**, and **MongoDB**
+
+### 🎯 Goals
+- Build innovative projects
+- Master JavaScript animations
+- Share knowledge through tutorials
+
+### ⚡ Fun Fact
+I can spend hours perfecting animations to create smooth user experiences!
  
 ---
 
