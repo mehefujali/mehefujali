@@ -6,7 +6,7 @@
  
 
 <p align="center">
-  <img src="https://i.ibb.co/2tpjq5Z/linkdin-banner-photo.jpg" alt="Mehefuj Ali Banner" />
+  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" />
 </p>
 
 <p align="center">
