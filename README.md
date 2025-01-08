@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://mehefujali.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio"></a>
+  <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mehefuj-ali-232741306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="https://youtube.com/@mehefuj-ali?si=8g1rTFGoZ4ANMaFU"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a> 
