@@ -44,7 +44,9 @@ I can spend hours perfecting animations to create smooth user experiences!
 ## 🚀 My Projects
 
 <p align="left">
-   <a href="https://rise-hub-k.web.app"> <img src="https://img.shields.io/badge/🧰Rise--Hub-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="E-News"> </a>
+   <a href="https://study-hive-k.web.app"> <img src="https://img.shields.io/badge/🧰Study--Hive-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Study hive"> </a>
+   <a href="https://talentflare.web.app"> <img src="https://img.shields.io/badge/🧰Talent--Flare-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Talent flare"> </a>
+   <a href="https://rise-hub-k.web.app"> <img src="https://img.shields.io/badge/📈Rise--Hub-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Rise-hub"> </a>
  <a href="https://e-news.web.app"> <img src="https://img.shields.io/badge/📰E--News-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="E-News"> </a>
 <a href="https://gadget-shop-k.netlify.app/"> 
     <img src="https://img.shields.io/badge/Gadget%20Shop-%23634DBF.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Gadget Shop"> 
@@ -58,12 +60,6 @@ I can spend hours perfecting animations to create smooth user experiences!
 <a href="https://open-pages.netlify.app/">
   <img src="https://img.shields.io/badge/📚%20Open%20Pages-%234CAF50.svg?style=for-the-badge&logoColor=white&background=%23ffa875" alt="Open Pages Badge">
 </a>
-
-
-
-
-
-
 
   <a href="https://knowledge-cafe-k.netlify.app/">
     <img src="https://img.shields.io/badge/Knowledge%20Cafe-%2343853D.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Cafe">
