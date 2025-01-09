@@ -24,9 +24,9 @@
 
 # Mehefuj Ali
 
-**Frontend Developer | Aspiring Full-Stack Developer | India**
+**Web Developer | Aspiring Full-Stack Developer | India**
 
-I am a passionate Frontend Developer and an aspiring Full-Stack Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
+I am a passionate Web Developer with a goal to build impactful, user-friendly web applications. Currently, I’m exploring **React**, **Node.js**, and **MongoDB** to expand my skills. I am always excited to learn new tools and technologies and strive to create beautiful, responsive, and functional websites.
 
 ---
 
