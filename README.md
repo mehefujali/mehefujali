@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6000&pause=500&color=009BC1&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=36&duration=6000&pause=500&color=FFA902&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Web+Developer" alt="Typing SVG" />
 </h1>
+
 
  
  
@@ -8,7 +9,7 @@
  
 
 <p align="center">
-  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" />
+  <img src="https://i.imgur.com/9sxvcGg.jpg" alt="Mehefuj Ali Banner" />
 </p>
 
 <p align="center">
