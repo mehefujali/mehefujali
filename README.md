@@ -9,7 +9,7 @@
  
 
 <p align="center">
-  <img src="https://i.imgur.com/9sxvcGg.jpg" alt="Mehefuj Ali Banner" />
+  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" />
 </p>
 
 <p align="center">
