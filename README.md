@@ -19,7 +19,7 @@
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" alt="Email"></a> 
 </p>
 
----
+--- 
 
 ## 🎨 About Me
 
