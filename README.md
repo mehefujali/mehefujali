@@ -120,11 +120,11 @@ Explore more projects in my [GitHub Repositories](https://github.com/mehefujali?
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehefujali&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 
----
+
 
 ## 📬 Let's Connect!
 
