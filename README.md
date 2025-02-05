@@ -31,13 +31,11 @@ I am a passionate Web Developer with a goal to build impactful, user-friendly we
 
 ---
 
-### 🌱 Currently Learning
-Full-stack development with
-- **React**,
-- **Node.js**,
-- **MongoDB**
-- **Next js**
-- **Typescript**
+### 🚀 Current Activity
+- Exploring Next.js with TypeScript 🏗️
+- Working on Neo Bazar – A team-based e-commerce project 🛍️
+- Enhancing my skills in full-stack web development 🌍
+- Contributing to open-source projects & improving my React.js expertise 💡
 
 ### 🎯 Goals
 - Build innovative projects
