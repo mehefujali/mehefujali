@@ -50,6 +50,7 @@ I can spend hours perfecting animations to create smooth user experiences!
 ## 🚀 My Projects
 
 <p align="left">
+   <a href="https://press-point-k.web.app"> <img src="https://img.shields.io/badge/📰Press--Point-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Bistro-boss"> </a>
    <a href="https://bistro-boss-k.web.app"> <img src="https://img.shields.io/badge/🍴Bistro--Boss-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Bistro-boss"> </a>
    <a href="https://study-hive-k.web.app"> <img src="https://img.shields.io/badge/📖Study--Hive-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Study hive"> </a>
    <a href="https://talentflare.web.app"> <img src="https://img.shields.io/badge/🧰Talent--Flare-%230077B5.svg?style=for-the-badge&logo=news&logoColor=white" alt="Talent flare"> </a>
