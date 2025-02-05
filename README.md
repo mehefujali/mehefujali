@@ -32,7 +32,12 @@ I am a passionate Web Developer with a goal to build impactful, user-friendly we
 ---
 
 ### 🌱 Currently Learning
-- Full-stack development with **React**, **Node.js**, and **MongoDB**
+Full-stack development with
+- **React**,
+- **Node.js**,
+- **MongoDB**
+- **Next js**
+- **Typescript**
 
 ### 🎯 Goals
 - Build innovative projects
