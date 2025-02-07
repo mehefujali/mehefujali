@@ -118,18 +118,7 @@ Explore more projects in my [GitHub Repositories](https://github.com/mehefujali?
 
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400" />
-</p>
-
-<p align="center">
- <a  href="https://github.com/mehefujali" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical" alt="GitHub Streak" />
-</a>
-</p>
 
 
 
@@ -146,6 +135,18 @@ I’m always open to collaborating on exciting projects or having a conversation
 </p>
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400" />
+</p>
+
+<p align="center">
+ <a  href="https://github.com/mehefujali" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical" alt="GitHub Streak" />
+</a>
+</p>
 
 ⭐ **If you find my work helpful or interesting, please consider giving my projects a star!**
 ---
