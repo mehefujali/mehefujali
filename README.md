@@ -71,34 +71,6 @@ I can spend hours perfecting animations to create smooth user experiences!
   <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.png?v=1714773017471" alt="adobe-illustrator" width="60" height="60"/>
 </p>
 
----
-
-<a href="https://dream-11-k.netlify.app/"> 
-    <img src="https://img.shields.io/badge/🏏%20Dream%2011-%2300BCD4.svg?style=for-the-badge&logoColor=white" alt="Dream 11 Badge"> 
-</a>
-
-<a href="https://open-pages.netlify.app/">
-  <img src="https://img.shields.io/badge/📚%20Open%20Pages-%234CAF50.svg?style=for-the-badge&logoColor=white&background=%23ffa875" alt="Open Pages Badge">
-</a>
-
-  <a href="https://knowledge-cafe-k.netlify.app/">
-    <img src="https://img.shields.io/badge/Knowledge%20Cafe-%2343853D.svg?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Knowledge Cafe">
-  </a>
-  <a href="https://big-cart.netlify.app">
-    <img src="https://img.shields.io/badge/Big%20Cart-%23FF5733.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Big Cart">
-  </a>
-  <a href="https://mehefujali-task-manager.netlify.app">
-    <img src="https://img.shields.io/badge/Task%20Manager-%231DB45F.svg?style=for-the-badge&logo=todoist&logoColor=white" alt="Task Manager">
-  </a>
-  <a href="https://mehefujali.github.io/find-git-user/">
-    <img src="https://img.shields.io/badge/Find%20Git%20User-%2343853D.svg?style=for-the-badge&logo=github&logoColor=white" alt="Find Git User">
-  </a>
-  <a href="https://mehefujali.github.io/phone-shop/">
-    <img src="https://img.shields.io/badge/Phone%20Shop-%23FF5733.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Phone Shop">
-  </a>
-</p>
-
-Explore more projects in my [GitHub Repositories](https://github.com/mehefujali?tab=repositories).
 
 ---
 
