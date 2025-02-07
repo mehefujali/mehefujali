@@ -124,9 +124,11 @@ Explore more projects in my [GitHub Repositories](https://github.com/mehefujali?
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical" alt="Top Languages" width="400" />
 </p>
 
-<a href="https://github.com/mehefujali" align="center">
+<p align="center">
+ <a  href="https://github.com/mehefujali" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical" alt="GitHub Streak" />
 </a>
+</p>
 
 
 
