@@ -142,7 +142,7 @@ I’m always open to collaborating on exciting projects or having a conversation
 <p align="center">
   <a href="https://www.facebook.com/share/xK94t1TizJUFJmX7/?mibextid=qi2Omg"><img src="https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook" alt="Facebook"></a>
   <a href="https://www.linkedin.com/in/mehefuj-ali-232741306"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://youtube.com/@mehefuj-ali?si=8g1rTFGoZ4ANMaFU"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" alt="YouTube"></a>
+ 
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
 </p>
 
