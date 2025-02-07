@@ -22,7 +22,7 @@
 ---
 # Mehefuj Ali
 
-**Web Developer **
+** Web Developer **
 --- 
 
 ## 🎨 About Me
