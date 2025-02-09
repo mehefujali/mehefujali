@@ -20,10 +20,7 @@
 </p>
 
 ---
-<div align="center">
-<h1> Mehefuj Ali</h1>
-Web Developer
-</div>
+
 
 
 ## 🎨 About Me
