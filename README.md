@@ -11,7 +11,7 @@
 <p align="center">
   <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" />
 </p>
-
+ 
 <p align="center">
   <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=internet-explorer" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mehefujali"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
