@@ -2,18 +2,17 @@ name: Generate GitHub Snake Animation
 
 on:
   schedule:
-    # Runs every 12 hours to update the animation
     - cron: "0 */12 * * *"
-  workflow_dispatch: # Allows you to manually run the action from the Actions tab
-  push: # Optional: run on push to main/master
-    branches:
-      - main # Or 'master', depending on your default branch
+  workflow_dispatch:
+  # push:
+  #   branches:
+  #     - main
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Needs write permission to commit the generated graph back to the repo
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -21,20 +20,37 @@ jobs:
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-snake.svg
-          # Example for a dark-mode optimized snake:
           # svg_out_path: dist/github-snake-dark.svg?palette=github-dark
+          # color_snake: "#FFA500"
+          # color_dots: "#AED6F1,#A9DFBF,#F9E79F,#F5B7B1,#D7BDE2"
 
       - name: Commit and Push SVG
         run: |
+          SVG_FILE_PATH="dist/github-snake.svg"
+          echo "Checking for generated SVG at $SVG_FILE_PATH ..."
+          if [ ! -f "$SVG_FILE_PATH" ]; then
+            echo "--------------------------------------------------------------------"
+            echo "ERROR: Snake SVG file was not found at '$SVG_FILE_PATH' after the generation step."
+            echo "This means the 'Platane/snk@v3' action might have failed to create the SVG."
+            echo "Please check the logs for the 'Generate Snake SVG' step for any errors from that action."
+            echo "Listing contents of 'dist' directory (if it exists):"
+            ls -la dist || echo "'dist' directory not found or is empty."
+            echo "--------------------------------------------------------------------"
+            exit 1
+          fi
+          echo "Snake SVG file found at $SVG_FILE_PATH. Proceeding with commit."
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add dist/github-snake.svg # Make sure this path matches svg_out_path
-          if git diff --staged --quiet; then
-            echo "No changes to the snake animation."
+          git add "$SVG_FILE_PATH"
+          if git diff --staged --quiet "$SVG_FILE_PATH"; then
+            echo "No changes detected in the snake animation file ($SVG_FILE_PATH)."
           else
+            echo "Changes detected. Committing and pushing..."
             git commit -m "chore: generate snake animation 🐍"
             git push
+            echo "Snake animation pushed successfully."
           fi
