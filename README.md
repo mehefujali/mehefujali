@@ -165,7 +165,8 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
 </p>
 
 <p align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" /> </p>
+  <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/main/dist/github-snake.svg" alt="My GitHub Contribution Snake" />
+</p>
 
 <p align="center" style="font-style: italic;">
   If you appreciate my work or find my projects intriguing, a ⭐ on GitHub would mean a lot!
