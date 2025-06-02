@@ -1,83 +1,97 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=FFA902&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Creative+Web+Developer;Full-Stack+Innovator" alt="Hi, I'm Mehefuj Ali - Creative Web Developer & Full-Stack Innovator" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=FFA902&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Creative+Web+Developer;Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
 </h1>
 
 <p align="center">
-  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" style="border-radius: 10px; max-width: 100%; box-shadow: 0 4px 15px rgba(0,0,0,0.1);" />
+  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" style="border-radius: 12px; max-width: 100%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);" />
 </p>
 
 <p align="center">
-  <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore-FFA902?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank"> <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
-  <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FFA902?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/@YourChannelName" target="_blank"> <img src="https://img.shields.io/badge/YouTube-View_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mehefujali&label=Profile%20Views&color=FFA902&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mehefujali&label=Profile%20Glimpses&color=FFA902&style=for-the-badge&logo=eye" alt="Profile Views"/>
 </p>
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me 🚀</h2>
 
-Hello there! I'm **Mehefuj Ali**, a dynamic **Web Developer** from India, crafting immersive digital experiences and evolving into a versatile **Full-Stack Innovator**.
+Hello there! I'm **Mehefuj Ali**, a dynamic **Web Developer** hailing from India. I'm deeply passionate about crafting immersive digital experiences and continually evolving as a versatile **Full-Stack Innovator**.
 
-I specialize in architecting and developing impactful, user-centric web applications. With a deep focus on the **MERN stack (MongoDB, Express.js, React, Node.js)**, I am passionate about leveraging cutting-edge technologies to build beautiful, responsive, and high-performance websites that captivate and engage. My goal is to not just write code, but to create digital solutions that solve real-world problems and offer exceptional user experiences.
-
----
-
-### 🎯 Current Focus & Learning
-- 🏗️ Mastering **Next.js with TypeScript** for advanced server-side rendering and static site generation.
-- 🛍️ Leading development on **Neo Bazar** – an ambitious team-based e-commerce ecosystem.
-- 🌐 Expanding my expertise in **cloud deployment (e.g., Vercel, AWS basics)** and **DevOps practices**.
-- 💡 Deepening my understanding of **advanced React patterns, state management (Zustand/Jotai), and performance optimization**.
-- 🎨 Exploring **Three.js and WebGL** for richer interactive experiences.
-
-### 🌱 My Aspirations
-- To build and scale full-stack applications that make a tangible difference.
-- To become a thought leader in JavaScript animations and interactive web design.
-- To contribute significantly to the open-source community and mentor aspiring developers.
-- To foster a culture of continuous learning and innovation.
-
-### ⚡ Fun Fact
-I believe the perfect animation isn't just visually pleasing, it's an intuitive guide for the user. I can get lost for hours tweaking bezier curves to achieve that perfect flow!
+My expertise lies in architecting and developing impactful, user-centric web applications. With a strong command over the **MERN stack (MongoDB, Express.js, React, Node.js)**, I thrive on leveraging cutting-edge technologies to build beautiful, responsive, and high-performance websites that not only captivate but also provide intuitive engagement. My ultimate goal is to transform ideas into digital solutions that solve real-world problems and deliver exceptional user journeys.
 
 ---
 
-## ✨ Featured Projects
+<h2 align="center">🎯 Current Focus & Learning Journey 🎯</h2>
 
-<details open>
-  <summary><strong>🛍️ Neo Bazar - E-commerce Platform</strong></summary>
-  <br />
-  A collaborative, feature-rich e-commerce application designed to provide a seamless and engaging shopping experience from discovery to checkout.
+I'm a firm believer in lifelong learning and am currently sharpening my skills in several exciting areas:
+<ul>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="20" valign="middle" style="margin-right: 5px;"/> Mastering **Next.js with TypeScript** for advanced server-side rendering, static site generation, and building scalable web applications.</li>
+  <li>🛍️ Leading the development of **Neo Bazar** – an ambitious team-based e-commerce ecosystem aiming for a premium user experience.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" valign="middle" style="margin-right: 5px;"/> Expanding my knowledge in **cloud deployment strategies (Vercel, AWS fundamentals)** and modern **DevOps practices**.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="20" valign="middle" style="margin-right: 5px;"/> Deepening my understanding of **advanced React patterns, state management libraries (like Zustand or Jotai), and critical performance optimization** techniques.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height="20" valign="middle" style="margin-right: 5px;"/> Exploring the fascinating world of **Three.js and WebGL** to incorporate richer, interactive 3D elements into web experiences.</li>
+</ul>
+
+---
+
+<h2 align="center">🌱 My Aspirations 🌱</h2>
+
+- To spearhead the creation and scaling of innovative full-stack applications that make a tangible, positive impact.
+- To establish myself as a knowledgeable voice in JavaScript animations and pioneering interactive web design.
+- To actively contribute to the open-source community, share knowledge, and mentor emerging developers.
+- To champion a culture of continuous learning, experimentation, and innovation within any team I'm part of.
+
+---
+
+<h2 align="center">⚡ Fun Fact ⚡</h2>
+
+I'm utterly captivated by the art of digital motion! I can happily spend hours refining bezier curves and animation timings, not just for aesthetics, but to craft an intuitive narrative that guides the user seamlessly. That perfect, almost invisible, smoothness is my kind of magic!
+
+---
+
+<h2 align="center">✨ Featured Projects ✨</h2>
+
+<details open style="margin-bottom: 10px; background-color: #161B22; padding: 15px; border-radius: 8px; border: 1px solid #30363D;">
+  <summary style="font-weight: bold; cursor: pointer; color: #FFA902;">🛍️ Neo Bazar - E-commerce Platform</summary>
+  <div style="padding-top: 10px;">
+  A collaborative, feature-rich e-commerce application meticulously designed to provide a seamless and engaging shopping experience from product discovery to secure checkout.
   <ul>
-    <li><strong>Core Features:</strong> Robust user authentication, dynamic product catalogs, intuitive cart & wishlist management, secure payment gateway integration (sandbox), comprehensive admin dashboard for inventory and order management.</li>
-    <li><strong>Tech Stack:</strong> React, Redux Toolkit, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, JWT, Stripe API.</li>
-    <li>🔗 <strong>Live Demo:</strong> [Link to Your Deployed Neo Bazar Demo - e.g., on Vercel/Netlify] <em>(Coming Soon!)</em></li>
-    <li>🔗 <strong>Repository:</strong> [Link to Neo Bazar GitHub Repo]</li>
+    <li><strong>Core Features:</strong> Robust user authentication (JWT), dynamic product catalogs with advanced filtering, intuitive cart & wishlist management, secure payment gateway integration (Stripe sandbox), comprehensive admin dashboard for inventory control and order processing.</li>
+    <li><strong>Tech Stack:</strong> React, Redux Toolkit, Node.js, Express.js, MongoDB, Mongoose, Tailwind CSS, JWT.</li>
+    <li>🔗 <strong>Live Demo:</strong> <em>(Coming Soon! Stay tuned for deployment on Vercel/Netlify)</em></li>
+    <li>🔗 <strong>Repository:</strong> [Link to Your Neo Bazar GitHub Repo - e.g., github.com/mehefujali/neo-bazar]</li>
   </ul>
+  </div>
 </details>
 
-<details>
-  <summary><strong>💡 Your Next Amazing Project Title</strong></summary>
-  <br />
-  Briefly describe your project here. What problem does it solve? What makes it unique?
+<details style="margin-bottom: 10px; background-color: #161B22; padding: 15px; border-radius: 8px; border: 1px solid #30363D;">
+  <summary style="font-weight: bold; cursor: pointer; color: #FFA902;">💡 Your Next Groundbreaking Project Title</summary>
+  <div style="padding-top: 10px;">
+  Briefly describe your project here. What unique problem does it solve? What's its core innovation?
   <ul>
-    <li><strong>Key Features:</strong> List 2-3 standout features.</li>
-    <li><strong>Tech Stack:</strong> Mention the primary technologies used.</li>
-    <li>🔗 <strong>Live Demo:</strong> [Link to Demo] (if available)</li>
-    <li>🔗 <strong>Repository:</strong> [Link to GitHub Repo]</li>
+    <li><strong>Key Features:</strong> Highlight 2-3 standout functionalities.</li>
+    <li><strong>Tech Stack:</strong> Mention the primary technologies that power it.</li>
+    <li>🔗 <strong>Live Demo:</strong> [Link to Your Deployed Demo] (if available)</li>
+    <li>🔗 <strong>Repository:</strong> [Link to its GitHub Repo]</li>
   </ul>
+  </div>
 </details>
 
 ---
 
-## 🛠️ My Tech Arsenal
+<h2 align="center">🛠️ My Tech Arsenal 🛠️</h2>
 
-<div align="center">
+<p align="center">Here's a glimpse into the primary tools and technologies I wield to bring ideas to life:</p>
 
-  **Frontend Development:**
+<div align="center" style="background-color: #161B22; padding: 20px; border-radius: 8px; border: 1px solid #30363D;">
+
+  <h4 style="color: #FFA902; margin-bottom: 10px;">Frontend Development:</h4>
   <p>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -90,26 +104,26 @@ I believe the perfect animation isn't just visually pleasing, it's an intuitive 
     <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
   </p>
 
-  **Backend Development:**
+  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">Backend Development:</h4>
   <p>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   </p>
 
-  **Databases & Cloud:**
+  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">Databases & Cloud:</h4>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </p>
 
-  **DevOps & Tools:**
+  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">DevOps & Tools:</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </p>
 
-  **UI/UX Design:**
+  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">UI/UX Design:</h4>
   <p>
     <img src="https://img.shields.io/badge/Adobe_Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop"/>
     <img src="https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator"/>
@@ -119,7 +133,7 @@ I believe the perfect animation isn't just visually pleasing, it's an intuitive 
 
 ---
 
-## 📊 My GitHub Universe
+<h2 align="center">📊 My GitHub Universe 📊</h2>
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FFA902&icon_color=FFA902&text_color=FFF&rank_icon=github&card_width=450" alt="Mehefuj Ali's GitHub Stats" width="49%" />
@@ -132,15 +146,29 @@ I believe the perfect animation isn't just visually pleasing, it's an intuitive 
   </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  ⭐ <i>If my work sparks your interest or helps you, a star on my projects would be greatly appreciated!</i> ⭐
-</p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" /> </p>
 
 ---
 
-<p align="center">
-  <em>Show <a href="https://github.com/mehefujali?tab=repositories">your support</a> by starring my projects!</em> 🌟
+<p align="center" style="font-size: 1.1em;">
+  📬 <strong>Let's Collaborate & Innovate!</strong>
 </p>
+<p align="center">
+  I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts. <br/>
+  Whether it's for a project, a question, or just to chat about the latest in tech, feel free to reach out!
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/share/xK94t1TizJUFJmX7/?mibextid=qi2Omg" target="_blank"><img src="https://img.shields.io/badge/Facebook-Message_Me-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center" style="margin-top: 30px;">
+  <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/main/assets/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake Animation" /> </p>
+
+<p align="center" style="font-style: italic;">
+  If you appreciate my work or find my projects intriguing, a ⭐ on GitHub would mean a lot!
+</p>
+
+---
