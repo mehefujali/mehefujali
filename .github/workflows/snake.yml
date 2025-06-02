@@ -20,17 +20,20 @@ jobs:
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
-        id: snake-gif
+        id: snake # Step ID
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-snake.svg
-          # svg_out_path: dist/github-snake-dark.svg?palette=github-dark
-          # color_snake: "#FFA500"
-          # color_dots: "#AED6F1,#A9DFBF,#F9E79F,#F5B7B1,#D7BDE2"
+          # 'outputs' এর মাধ্যমে ফাইলের পাথ এবং নাম নির্দিষ্ট করা হয়
+          # ডিফল্টরূপে এটি dist/github-snake.svg এবং dist/github-snake-dark.svg তৈরি করে
+          # এবং গ্রিড-সাপোর্টের জন্য dist/ocean.svg ও dist/ocean-dark.svg তৈরি করতে পারে
+          # আমরা শুধু github-snake.svg ব্যবহার করবো
+          outputs: dist/github-snake.svg # ,dist/github-snake-dark.svg?palette=github-dark # আপনি চাইলে ডার্ক মোডও রাখতে পারেন
 
       - name: Commit and Push SVG
         run: |
-          SVG_FILE_PATH="dist/github-snake.svg"
+         
+          SVG_FILE_PATH="dist/github-snake.svg" # outputs এ দেওয়া প্রথম পাথটি
+
           echo "Checking for generated SVG at $SVG_FILE_PATH ..."
           if [ ! -f "$SVG_FILE_PATH" ]; then
             echo "--------------------------------------------------------------------"
@@ -45,7 +48,7 @@ jobs:
           echo "Snake SVG file found at $SVG_FILE_PATH. Proceeding with commit."
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add "$SVG_FILE_PATH"
+          git add "$SVG_FILE_PATH" # আপনি চাইলে dist ফোল্ডারের সব SVG অ্যাড করতে পারেন: git add dist/*.svg
           if git diff --staged --quiet "$SVG_FILE_PATH"; then
             echo "No changes detected in the snake animation file ($SVG_FILE_PATH)."
           else
