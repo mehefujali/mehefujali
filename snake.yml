@@ -1,0 +1,47 @@
+name: Generate GitHub Snake Animation
+
+on:
+  schedule:
+    # Runs every 12 hours to update the animation
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Allows you to manually run the action from the Actions tab
+  push: # Optional: run on push to main/master to update immediately after a commit (that might change contributions)
+    branches:
+      - main # Or 'master', depending on your default branch
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Needs write permission to commit the generated graph back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }} # Uses your GitHub username automatically
+          # Define the output path for the SVG file
+          # This is the most common and recommended path:
+          svg_out_path: dist/github-snake.svg
+          # Example for a dark-mode optimized snake:
+          # svg_out_path: dist/github-snake-dark.svg?palette=github-dark
+          #
+          # You can customize colors too if you like:
+          # color_snake: "#FFA902" # Your orange theme color
+          # color_dots: "#AED6F1,#A9DFBF,#F9E79F,#F5B7B1,#D7BDE2" # Example dot colors
+
+      - name: Commit and Push SVG
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add dist/github-snake.svg # Make sure this path matches svg_out_path
+          # git add dist/github-snake-dark.svg # If you also generated a dark version
+          if git diff --staged --quiet; then
+            echo "No changes to the snake animation."
+          else
+            git commit -m "chore: generate snake animation 🐍"
+            git push
+          fi
