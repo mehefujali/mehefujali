@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FFA902?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.youtube.com/@YourChannelName" target="_blank"> <img src="https://img.shields.io/badge/YouTube-View_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.youtube.com/@YourHandle" target="_blank"> <img src="https://img.shields.io/badge/YouTube-View_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -31,10 +31,15 @@ My expertise lies in architecting and developing impactful, user-centric web app
 
 I'm a firm believer in lifelong learning and am currently sharpening my skills in several exciting areas:
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="20" valign="middle" style="margin-right: 5px;"/> Mastering **Next.js with TypeScript** for advanced server-side rendering, static site generation, and building scalable web applications.</li>
-  <li>🛍️ Leading the development of **Neo Bazar** – an ambitious team-based e-commerce ecosystem aiming for a premium user experience.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" valign="middle" style="margin-right: 5px;"/> Expanding my knowledge in **cloud deployment strategies (Vercel, AWS fundamentals)** and modern **DevOps practices**.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" height="20" valign="middle" style="margin-right: 5px;"/> Deepening my understanding of **advanced React patterns, state management libraries (like Zustand or Jotai), and critical performance optimization** techniques.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="20" valign="middle" style="margin-right: 5px;"/> Deepening expertise in **Next.js** (with TypeScript) for advanced web applications.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" height="20" valign="middle" style="margin-right: 5px;"/> Mastering state management with **Redux**.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="20" valign="middle" style="margin-right: 5px;"/> Working with **Prisma** ORM for efficient database interactions.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="20" valign="middle" style="margin-right: 5px;"/> Exploring containerization with **Docker**.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="20" valign="middle" style="margin-right: 5px;"/> Enhancing proficiency in the **Linux** environment.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" valign="middle" style="margin-right: 5px;"/> Gaining experience with **AWS** cloud services.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" height="20" valign="middle" style="margin-right: 5px;"/> Learning **GraphQL** for efficient data querying.</li>
+  <li>💻 Understanding core concepts of **DBMS**, **CI/CD pipelines**, **DevOps practices**, and **Unit Testing methodologies**.</li>
+  <li>🛍️ Collaborating on **Neo Bazar** – an exciting team-based e-commerce ecosystem.</li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height="20" valign="middle" style="margin-right: 5px;"/> Exploring the fascinating world of **Three.js and WebGL** to incorporate richer, interactive 3D elements into web experiences.</li>
 </ul>
 
@@ -99,6 +104,7 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
     <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
     <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
     <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
     <img src="https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
@@ -108,18 +114,28 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
   <p>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
     <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+    <img src="https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+    <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
   </p>
 
   <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">Databases & Cloud:</h4>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/DBMS-Concepts-blue?style=for-the-badge" alt="DBMS Concepts"/>
   </p>
 
-  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">DevOps & Tools:</h4>
+  <h4 style="color: #FFA902; margin-top: 20px; margin-bottom: 10px;">DevOps, Testing & Tools:</h4>
   <p>
     <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+    <img src="https://img.shields.io/badge/CI/CD-Practices-lightgrey?style=for-the-badge&logo=githubactions" alt="CI/CD Practices"/>
+    <img src="https://img.shields.io/badge/DevOps-Principles-blue?style=for-the-badge" alt="DevOps Principles"/>
+    <img src="https://img.shields.io/badge/Unit_Testing-Knowledge-green?style=for-the-badge" alt="Unit Testing"/>
     <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   </p>
 
@@ -146,7 +162,8 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
   </a>
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" /> </p>
+  <img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" />
+</p>
 
 ---
 
@@ -164,9 +181,6 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<p align="center" style="margin-top: 30px;">
-  <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/main/dist/github-snake.svg" alt="My GitHub Contribution Snake" />
-</p>
 
 <p align="center" style="font-style: italic;">
   If you appreciate my work or find my projects intriguing, a ⭐ on GitHub would mean a lot!
