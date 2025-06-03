@@ -2,9 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=FFA902&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Creative+Web+Developer;Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
 </h1>
 
-<p align="center">
-  <img src="https://i.imgur.com/vvyA8Ib.png" alt="Mehefuj Ali Banner" style="border-radius: 12px; max-width: 100%; box-shadow: 0 6px 20px rgba(0,0,0,0.15);" />
-</p>
+
 
 <p align="center">
   <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Explore_My_Work-FFA902?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
