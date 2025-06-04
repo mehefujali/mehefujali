@@ -29,16 +29,16 @@ My expertise lies in architecting and developing impactful, user-centric web app
 
 I'm a firm believer in lifelong learning and am currently sharpening my skills in several exciting areas:
 <ul>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="20" valign="middle" style="margin-right: 5px;"/> Deepening expertise in **Next.js** (with TypeScript) for advanced web applications.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" height="20" valign="middle" style="margin-right: 5px;"/> Mastering state management with **Redux**.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="20" valign="middle" style="margin-right: 5px;"/> Working with **Prisma** ORM for efficient database interactions.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="20" valign="middle" style="margin-right: 5px;"/> Exploring containerization with **Docker**.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="20" valign="middle" style="margin-right: 5px;"/> Enhancing proficiency in the **Linux** environment.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" valign="middle" style="margin-right: 5px;"/> Gaining experience with **AWS** cloud services.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" height="20" valign="middle" style="margin-right: 5px;"/> Learning **GraphQL** for efficient data querying.</li>
-  <li>💻 Understanding core concepts of **DBMS**, **CI/CD pipelines**, **DevOps practices**, and **Unit Testing methodologies**.</li>
-  <li>🛍️ Collaborating on **Neo Bazar** – an exciting team-based e-commerce ecosystem.</li>
-  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height="20" valign="middle" style="margin-right: 5px;"/> Exploring the fascinating world of **Three.js and WebGL** to incorporate richer, interactive 3D elements into web experiences.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="Next.js" height="20" valign="middle" style="margin-right: 5px;"/> Deepening expertise in Next.js (with TypeScript) for advanced web applications.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" alt="Redux" height="20" valign="middle" style="margin-right: 5px;"/> Mastering state management with Redux.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" alt="Prisma" height="20" valign="middle" style="margin-right: 5px;"/> Working with *Prisma* ORM for efficient database interactions.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" height="20" valign="middle" style="margin-right: 5px;"/> Exploring containerization with Docker.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="20" valign="middle" style="margin-right: 5px;"/> Enhancing proficiency in the Linux environment.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="20" valign="middle" style="margin-right: 5px;"/> Gaining experience with AWS cloud services.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" alt="GraphQL" height="20" valign="middle" style="margin-right: 5px;"/> Learning GraphQL for efficient data querying.</li>
+  <li>💻 Understanding core concepts of DBMS, CI/CD pipelines, DevOps practices, and Unit Testing methodologies.</li>
+  <li>🛍️ Collaborating on Neo Bazar – an exciting team-based e-commerce ecosystem.</li>
+  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" alt="Three.js" height="20" valign="middle" style="margin-right: 5px;"/> Exploring the fascinating world of Three.js and WebGL to incorporate richer, interactive 3D elements into web experiences.</li>
 </ul>
 
 ---
