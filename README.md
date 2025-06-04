@@ -179,7 +179,9 @@ I'm utterly captivated by the art of digital motion! I can happily spend hours r
   <a href="mailto:mehefujalim@gmail.com"><img src="https://img.shields.io/badge/Email-Drop_a_Line-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/410579a2d9e3409e4e559781db4b51e62c94ae1c/dist/github-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 <p align="center" style="font-style: italic;">
   If you appreciate my work or find my projects intriguing, a ⭐ on GitHub would mean a lot!
 </p>
