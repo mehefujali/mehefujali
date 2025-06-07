@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=FFA902&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;Creative+Web+Developer;Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
 </h1>
-
+ 
 
 
 <p align="center">
