@@ -145,6 +145,9 @@ Core Concepts: Understanding DBMS, CI/CD pipelines, DevOps, and Unit Testing.
 </table>
 </div>
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehefujali&bg_color=0d1117&color=ffffff&line=ff00bb&point=ffffff&area=true&hide_border=true"  />
+</div>
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/410579a2d9e3409e4e559781db4b51e62c94ae1c/dist/github-snake.svg" alt="GitHub Contribution Snake" />
