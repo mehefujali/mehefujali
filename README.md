@@ -79,13 +79,10 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 <tr>
 <td width="50%" valign="top">
 <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<h4 align="center">🛍️ Neo Bazar - E-commerce Platform</h4>
-<p align="center">A collaborative, feature-rich e-commerce application designed for a seamless shopping experience, from discovery to checkout.</p>
-<p><strong>Core Features:</strong> JWT authentication, dynamic product catalogs, cart/wishlist management, and a comprehensive admin dashboard.</p>
-<p><strong>Tech Stack:</strong> React, Redux, Node.js, Express, MongoDB, Tailwind CSS.</p>
+<h4 align="center">🛍️ DuareBazaar Multi-Vendor Marketplace</h4>
+<p align="center">Developed a scalable multi-vendor e-commerce platform allowing multiple sellers to register and manage their stores with dynamic product specifications. The system features order management, secure authentication, and responsive UI for seamless shopping experience. Built with React, Node.js, and MongoDB,</p>
 <p align="center">
-<a href="#">🔗 Live Demo (Coming Soon)</a> |
-<a href="#">🔗 Repository</a>
+<a href="https://duarebazaar.com/">🔗 Live Site</a> |
 </p>
 </div>
 </td>
