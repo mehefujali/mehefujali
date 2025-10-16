@@ -88,13 +88,11 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 </td>
 <td width="50%" valign="top">
 <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<h4 align="center">💡 Your Next Project Title</h4>
-<p align="center">Briefly describe your project here. What unique problem does it solve? What's its core innovation?</p>
-<p><strong>Key Features:</strong> Highlight 2-3 standout functionalities.</p>
-<p><strong>Tech Stack:</strong> Mention the primary technologies that power it.</p>
+<h4 align="center">Wedding Foto Station Portfolio Site</h4>
+<p align="center">Built a modern photography portfolio website with optimized gallery navigation and image performance. Implemented with React.js, Tailwind CSS, Node.js, and Express.js focused on clean UI/UX and responsive design for all devices.</p>
+<p><strong>Tech Stack:</strong>Built with React, Node.js, and MongoDB,</p>
 <p align="center">
-<a href="#">🔗 Live Demo</a> |
-<a href="#">🔗 Repository</a>
+<a href="https://weddingfotostation.com/">🔗 Live</a> |
 </p>
 </div>
 </td>
