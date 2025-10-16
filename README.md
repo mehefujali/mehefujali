@@ -82,7 +82,7 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 <h4 align="center">🛍️ DuareBazaar Multi-Vendor Marketplace</h4>
 <p align="center">Developed a scalable multi-vendor e-commerce platform allowing multiple sellers to register and manage their stores with dynamic product specifications. The system features order management, secure authentication, and responsive UI for seamless shopping experience. Built with React, Node.js, and MongoDB,</p>
 <p align="center">
-<a href="https://duarebazaar.com/">🔗 Live Site</a> |
+<a href="https://duarebazaar.com/">🔗 Live Site</a> 
 </p>
 </div>
 </td>
@@ -92,7 +92,7 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 <p align="center">Built a modern photography portfolio website with optimized gallery navigation and image performance. Implemented with React.js, Tailwind CSS, Node.js, and Express.js focused on clean UI/UX and responsive design for all devices.</p>
 <p><strong>Tech Stack:</strong>Built with React, Node.js, and MongoDB,</p>
 <p align="center">
-<a href="https://weddingfotostation.com/">🔗 Live</a> |
+<a href="https://weddingfotostation.com/">🔗 Live</a> 
 </p>
 </div>
 </td>
