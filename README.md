@@ -118,12 +118,10 @@ Core Concepts: Understanding DBMS, CI/CD pipelines, DevOps, and Unit Testing.
 <div align="center">
 <table width="95%">
 <tr>
-<td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=60" alt="Mehefuj Ali's GitHub Stats" />
-</td>
-<td width="50%">
+ 
+<!-- <td width="50%">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFF&langs_count=8&cache_seconds=60" alt="Top Languages" />
-</td>
+</td> -->
 </tr>
 <tr>
 <td colspan="2">
@@ -131,9 +129,12 @@ Core Concepts: Understanding DBMS, CI/CD pipelines, DevOps, and Unit Testing.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
 </a>
 </td>
+  <td width="50%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=60" alt="Mehefuj Ali's GitHub Stats" />
+</td>
 </tr>
 <tr>
-<td colspan="2">
+<td colspan="4">
 <img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" />
 </td>
 </tr>
