@@ -1,5 +1,6 @@
-<div align="center">
-
+<a href="https://mehefujali.com"><img src="https://raw.githubusercontent.com/mehefujali/mehefujali/refs/heads/main/mehefujali-banner.gif" alt="Mehefuj Ali Banner" /></a>
+<div align="left">
+  
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;A+Creative+Web+Developer;A+Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
 
 <p>
@@ -19,7 +20,7 @@ Hello there! I'm Mehefuj Ali, a results-driven Full-Stack Developer from India. 
 </blockquote>
 
 
-<a href="https://mehefujali.com"><img src="https://raw.githubusercontent.com/mehefujali/mehefujali/refs/heads/main/mehefujali-github-banner.png" alt="Mehefuj Ali Banner" /></a>
+
 
 
 
