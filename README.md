@@ -18,6 +18,11 @@
 Hello there! I'm Mehefuj Ali, a results-driven Full-Stack Developer from India. My expertise lies in the <strong>MERN stack</strong>, where I transform complex problems into elegant, user-centric digital solutions. I'm passionate about writing clean, scalable code, solving real-world problems, and am now actively contributing to <strong>open-source projects</strong>. My goal is to craft immersive digital experiences and continually evolve as a versatile innovator.
 </blockquote>
 
+
+<a href="https://mehefujali.com"><img src="https://raw.githubusercontent.com/mehefujali/mehefujali/refs/heads/main/mehefujali-github-banner.png" alt="Mehefuj Ali Banner" /></a>
+
+
+
 🛠️ My Tech Arsenal
 <table width="100%">
 <tr>
