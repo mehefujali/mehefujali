@@ -1,8 +1,7 @@
-<a href="https://mehefujali.com"><img src="https://raw.githubusercontent.com/mehefujali/mehefujali/refs/heads/main/mehefujali-banner.gif" alt="Mehefuj Ali Banner" /></a>
+<a href="https://mehefujali.com"><img src="https://raw.githubusercontent.com/mehefujali/mehefujali/refs/heads/main/mehefujali-github-banner.gif" alt="Mehefuj Ali Banner" /></a>
 <div align="left">
   
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;A+Creative+Web+Developer;A+Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
-
+# Hi I am Mehefuj Ali
 <p>
 <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
