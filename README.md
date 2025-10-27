@@ -1,10 +1,6 @@
 <div align="center">
 
-<!-- Typing SVG Animation -->
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&duration=5000&pause=500&color=00BFFF&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Mehefuj+Ali+%F0%9F%91%8B;A+Creative+Web+Developer;A+Full-Stack+Innovator;Crafting+Digital+Experiences" alt="Hi, I'm Mehefuj Ali - Creative Web Developer, Full-Stack Innovator, Crafting Digital Experiences" />
-
-<!-- Social & Contact Links -->
 
 <p>
 <a href="https://mehefujali.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
@@ -13,15 +9,13 @@
 <a href="https://www.youtube.com/@alicodelab" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-<!-- Profile Views Counter -->
-
 <img src="https://komarev.com/ghpvc/?username=mehefujali&label=PROFILE+VIEWS&color=00BFFF&style=for-the-badge&logo=eye" alt="Profile Views"/>
 
 </div>
 
 🚀 About Me
 <blockquote style="border-left: 5px solid #00BFFF; color: #C9D1D9; padding-left: 15px;">
-Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a passion for building beautiful, responsive, and high-performance web applications. My expertise is in the <strong>MERN stack</strong>, where I transform innovative ideas into user-centric digital solutions that solve real-world problems. My goal is to craft immersive digital experiences and continually evolve as a versatile innovator in the tech world.
+Hello there! I'm Mehefuj Ali, a results-driven Full-Stack Developer from India. My expertise lies in the <strong>MERN stack</strong>, where I transform complex problems into elegant, user-centric digital solutions. I'm passionate about writing clean, scalable code, solving real-world problems, and am now actively contributing to <strong>open-source projects</strong>. My goal is to craft immersive digital experiences and continually evolve as a versatile innovator.
 </blockquote>
 
 🛠️ My Tech Arsenal
@@ -80,7 +74,8 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 <td width="50%" valign="top">
 <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
 <h4 align="center">🛍️ DuareBazaar Multi-Vendor Marketplace</h4>
-<p align="center">Developed a scalable multi-vendor e-commerce platform allowing multiple sellers to register and manage their stores with dynamic product specifications. The system features order management, secure authentication, and responsive UI for seamless shopping experience. Built with React, Node.js, and MongoDB,</p>
+<p>Developed a scalable multi-vendor e-commerce platform allowing multiple sellers to register and manage their stores. Features order management, secure authentication, and a responsive UI.</p>
+<p><strong>Tech Stack:</strong> React, Node.js, Express.js, MongoDB</p>
 <p align="center">
 <a href="https://duarebazaar.com/">🔗 Live Site</a> 
 </p>
@@ -88,70 +83,58 @@ Hello there! I'm Mehefuj Ali, a dynamic Full-Stack Developer from India with a p
 </td>
 <td width="50%" valign="top">
 <div style="background-color: #0D1117; border: 1px solid #30363D; border-radius: 8px; padding: 15px;">
-<h4 align="center">Wedding Foto Station Portfolio Site</h4>
-<p align="center">Built a modern photography portfolio website with optimized gallery navigation and image performance. Implemented with React.js, Tailwind CSS, Node.js, and Express.js focused on clean UI/UX and responsive design for all devices.</p>
-<p><strong>Tech Stack:</strong>Built with React, Node.js, and MongoDB,</p>
+<h4 align="center">📸 Wedding Foto Station Portfolio</h4>
+<p>Built a modern photography portfolio website with optimized gallery navigation and image performance, focusing on a clean UI/UX and responsive design for all devices.</p>
+<p><strong>Tech Stack:</strong> React.js, Tailwind CSS, Node.js, Express.js</p>
 <p align="center">
-<a href="https://weddingfotostation.com/">🔗 Live</a> 
+<a href="https://weddingfotostation.com/">🔗 Live Site</a> 
 </p>
 </div>
 </td>
 </tr>
 </table>
 
-🌱 Current Focus & Learning Journey
-I'm a firm believer in lifelong learning and am currently sharpening my skills in several exciting areas:
+🔭 Open Source & Current Focus
+I'm a firm believer in lifelong learning and collaborative development. I am actively seeking and contributing to impactful open-source projects.
 
-Next.js & TypeScript: Deepening expertise for advanced, type-safe web applications.
+Currently, I'm sharpening my skills in:
 
-Advanced State Management: Mastering Redux for complex application states.
-
-Database & ORMs: Working with Prisma for efficient database interactions.
-
-Containerization & Cloud: Exploring Docker and gaining experience with AWS.
-
-APIs & 3D Web: Learning GraphQL for efficient data querying and exploring Three.js for interactive 3D elements.
-
-Core Concepts: Understanding DBMS, CI/CD pipelines, DevOps, and Unit Testing.
+* **Next.js & TypeScript:** Building advanced, type-safe, server-rendered applications.
+* **DevOps & Cloud:** Deepening my knowledge of Docker, CI/CD pipelines, and AWS for scalable infrastructure.
+* **Advanced APIs:** Mastering GraphQL for efficient data fetching and complex queries.
+* **Database Optimization:** Leveraging Prisma, PostgreSQL, and advanced database concepts (DBMS).
+* **Quality Assurance:** Implementing Unit Testing and comprehensive testing strategies.
 
 📊 My GitHub Universe
 <div align="center">
-<table width="95%">
+<table width="100%">
 <tr>
- 
-<!-- <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehefujali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&text_color=FFF&langs_count=8&cache_seconds=60" alt="Top Languages" />
-</td> -->
+<td width="50%" valign="top">
+<a href="https://github.com/mehefujali">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
+</a>
+</td>
+<td width="50%" valign="top">
+<img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=60" alt="Mehefuj Ali's GitHub Stats" />
+</td>
 </tr>
 <tr>
 <td colspan="2">
-<a href="https://github.com/mehefujali">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mehefujali&theme=radical&hide_border=true&background=0D1117&stroke=00BFFF&ring=00BFFF&fire=00BFFF&currStreakNum=FFF&sideNums=FFF&currStreakLabel=FFF&sideLabels=FFF&dates=FFF" alt="GitHub Streak" />
-</a>
-</td>
-  <td width="50%">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mehefujali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00BFFF&icon_color=00BFFF&text_color=FFF&rank_icon=github&count_private=true&include_all_commits=true&cache_seconds=60" alt="Mehefuj Ali's GitHub Stats" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" />
 </td>
 </tr>
 <tr>
-<td colspan="4">
-<img src="https://github-profile-trophy.vercel.app/?username=mehefujali&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4&row=1&column=7&rank=-C" alt="GitHub Trophies" />
+<td colspan="2">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehefujali&bg_color=0d1117&color=ffffff&line=ff00bb&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
 </td>
 </tr>
 </table>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mehefujali&bg_color=0d1117&color=ffffff&line=ff00bb&point=ffffff&area=true&hide_border=true"  />
-</div>
-
-<div align="center">
 <img src="https://raw.githubusercontent.com/mehefujali/mehefujali/410579a2d9e3409e4e559781db4b51e62c94ae1c/dist/github-snake.svg" alt="GitHub Contribution Snake" />
 </div>
 
 <div align="center">
 <h3>📬 Let's Collaborate & Innovate!</h3>
-<p>I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts. <br/> Feel free to reach out for a project, a question, or just to chat about the latest in tech!</p>
+<p>I'm always thrilled to connect with fellow developers, designers, and tech enthusiasts. <br/> Feel free to reach out for a project, <strong>open-source collaboration</strong>, or just to chat about the latest in tech!</p>
 <p>
 <a href="https://www.facebook.com/share/xK94t1TizJUFJmX7/?mibextid=qi2Omg" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/mehefujali" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
